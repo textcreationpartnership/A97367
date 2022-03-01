@@ -1,0 +1,198 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mercurius cambro-Britannus, the Brittish mercury, or, The Welch diurnall communicating remarkable intelligences and true newes to awle the whole kingdome...  [6th-13th January 1644]</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97367</idno>
+            <idno type="STC">Thomason E81_30</idno>
+            <idno type="STC">ESTC P1079</idno>
+            <idno type="EEBO-CITATION">53403882</idno>
+            <idno type="OCLC"> 53403882</idno>
+            <idno type="VID">155630</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97367)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155630)</note>
+            <note>Images scanned from microfilm: (Early English books, Thomason Tracts ; 13:E.81[30])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mercurius cambro-Britannus, the Brittish mercury, or, The Welch diurnall communicating remarkable intelligences and true newes to awle the whole kingdome...  [6th-13th January 1644]</title>
+               </titleStmt>
+               <publicationStmt>
+                  <publisher>Printed by Bernard Alsop,</publisher>
+                  <pubPlace>London:</pubPlace>
+                  <date>[1643].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Weekly publication.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Jayne Henley</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Jayne Henley</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155630:1" rendition="simple:additions"/>
+            <p>Mercurius Cambro-Britannus, <hi>THE BRITTISH MERCURY, OR THE WELCH DIURNALL.</hi>
+            </p>
+            <p>
+               <hi>Communicating remarkable</hi> Intelligences, <hi>and true Newes to awle the whole Kingdom, from</hi> Ian. <hi>6. to the 13. of the ſame, 1643.</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>1.</hi> Of the taking the Towne of Newcaſtle by her prethren of Scotland, and of Sir <hi>Thomas Glenham</hi> his going to Yorke, and who it was that brought this warm newes to the City.</item>
+               <item>
+                  <hi>2.</hi> Of the enemy retreating backward from Plymmouth, her hope to take it the cleane contrary way.</item>
+               <item>
+                  <hi>3.</hi> A deſcription of the taking of Sir <hi>Thomas Holts</hi> houſe, by Colonell <hi>Boſ<g ref="char:EOLhyphen"/>wels</hi> forces, and was ſince fall upon Bewly, (with pretty obſervations thereon.)</item>
+               <item>
+                  <hi>4.</hi> Of the preſsing in the Weſt Country, and of the preſt ſouldiers running from the Lord <hi>Hopton</hi> to aſsiſt the Parliament.</item>
+               <item>
+                  <hi>5.</hi> Of creat diviſions and diſcords at Oxford, that aul the Cavalliers are turned Round-heads.</item>
+               <item>
+                  <hi>6.</hi> The Biſhop of Canterbury comming to <hi>hic hæc hoc,</hi> lay her on the blocke; and bring her firſt to triall.</item>
+               <item>
+                  <hi>7.</hi> The Governour of Oxford <hi>Aſton</hi> wounded, and a great many of the Kings ſouldiers wounded in the eyes.</item>
+               <item>
+                  <hi>8.</hi> the Scots are comming with a powder, and of the Marqueſſe of <hi>Hamiltons</hi> four or five ſuppoſed Deaths. And of the Lord <hi>Louthian.</hi>
+               </item>
+               <item>
+                  <hi>9.</hi> Of a divevelliſh plot againſt the City, and her deſcription of the matter, and the ill manners of it.</item>
+               <item>
+                  <hi>10.</hi> Of Prince <hi>Ruperts</hi> taking an Ague upon the report of the ſurrender of Arun<g ref="char:EOLhyphen"/>dell Caſtle.</item>
+               <item>
+                  <hi>11.</hi> Of the taking of Grafton houſe, her pillage and the weakenſse of Belvoyre her Garriſon.</item>
+               <item>
+                  <hi>12.</hi> His Majeſties Proclamation, and his Majeſties forgetfull promiſes, and un<g ref="char:EOLhyphen"/>deſerved pardons.</item>
+               <item>
+                  <hi>13.</hi> Of the preſent bad condition of Oxford, and of foure Kraves that diſturbe the whole Commonwealth.</item>
+            </list>
+            <p>
+               <hi>Printed by</hi> Bernard Alſop, <hi>And publiſhed according to Order.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:155630:2"/>
+            <pb n="1" facs="tcp:155630:2"/>
+            <head>THE BRITTISH MERCURY COMMUNICATING Remarkable <hi>Intelligences,</hi> and true <hi>Newes</hi> to awle the whole Kingdom, Munday <hi>Ianuary</hi> the 13. 1643.</head>
+            <p>THe increaſe of misbegotten pamphlets hath made the Welch Mercury to be almoſt excluded out of their number, al<g ref="char:EOLhyphen"/>though her was alwayes carefull without favour or affection to deliver the moſt true and remarkable paſſages, as they fall within the compaſſe of her weekly Intelligences, and in this Orbe of truth (if her may obtaine leave to appeare againe in the in the world) her will move forward with the returning of the Sun, and begin the new yeare with ſuch paſſages as her doe know are moſt worthy to bee preferred to your obſervation.</p>
+            <p>And to give her the better content, her will begin with her war<g ref="char:EOLhyphen"/>meſt and beſt newes firſt. Her heare of a certaine truth, that the prave Sea-cole Towne of Newcaſtle is taken by our brudders of Scotland, and that Sir <hi>Thomas Glenham</hi> hath quit the Towne, and is gone to Yorke; but how, when and in what manner it is taken, her ſhall at this time forbeare to relate, till her has better information. But peleive her, 'tis very true, for her heard a pird ſing ſo in a prin<g ref="char:EOLhyphen"/>ted paper on Friday laſt, and for her part, her will give credit to it unleſſe her heare to te contrary.</p>
+            <p>From Plimmouth we heare that a work which much annoy'd the towne is taken from the enemy, was took an hundred priſoners, and Prince <hi>Maurice</hi> Trumpeter. The enemy hath now raiſed her ſiege foure or five miles back, and doth meane to give back untill her run away. The Cavalliers in their retreat was miſerably pillage
+<pb facs="tcp:155630:3"/>awl the Country, drove away awl Beaſts, and cattles, and fired awl hay and corn, ſo that the Town though, freed from beſiegers, is in want, and if no relief ſent them come by Sea, was have hungry bel<g ref="char:EOLhyphen"/>lies, and was at laſt ſtarve. Her know the miſeries of War, and eſpe<g ref="char:EOLhyphen"/>cially of this uncivill war, killing was now great mercy, the Cavaliers like Canibals eate up the Kings ſubjects, and the King lookes on without Compaſsion, but
+<q>
+                  <l>O miſ<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>reri tui Rex Regni indigna ſerentis:</l>
+                  <l>O King, the Kingdome and the City.</l>
+                  <l>
+                     <g ref="char:V">Ʋ</g>nworthily oppreſt, now pitty.</l>
+               </q>
+            </p>
+            <p>We hear that Collonell <hi>Boſwell</hi> with eight hundred horſe and foot, was go on a deſigne againſt Sir <hi>Thomas Holis</hi> houſe, near Bir<g ref="char:EOLhyphen"/>migham, when her came near the Knights forces was found a chal<g ref="char:EOLhyphen"/>lenge, the houſe was then demanded for the uſe of the King and Par<g ref="char:EOLhyphen"/>liament, but they anſwered her would not yeild while they had a man alive. Then Cannon plaid on them unhurt, being in low rooms. After the Church was taken, being defended by 40. ſtout French men and Iriſh men, who was taken priſoner and one woman, afterwards they aſſailed their workes, ſtormed the houſe, and entred in at the windowes, afterward was cry for quarter, which granted they ſhot two in the mouth comming in the window, and thereupon our ſoul<g ref="char:EOLhyphen"/>diers killed many of the Enemy. Was take in awl fourſcore priſo<g ref="char:EOLhyphen"/>ners, and great ſtore of rich pillage, goods, money, and plate, good booties and good breakfaſts are good for ſoldiers, and thoſe that win gold ſhould wear it, as the Proverb ſayes of old.</p>
+            <p>And the ſame Collonell <hi>Boſwell</hi> was ſince then faln upon <hi>Bewly,</hi> between Worceſter and Warwickſhire, and was take it and the Gar<g ref="char:EOLhyphen"/>riſon, and great ſtore of wealth and pillage, theſe forces and papiſts malignants wil be driven out of their dens, if her be cloſely followed as her do with thoſe in her Country, her may be ſoon taken; her do daily catch priſoners, which are kept in ſeverall priſon; but in their papiſt charity they ſtarve them at Oxford.</p>
+            <p>In the Weſt Country (as her do hear) they preſſe very violently, but in vaine, eight hundred preſt men after they were compleatly armed to aſsiſt the Lord <hi>Hopton,</hi> run away, and are awl gone to Poole Lime, and Dorcheſter, to fight for her King and Parliament, a good
+<pb facs="tcp:155630:3"/>reſolution and fit to be imitated; tis valour in her to run from the King to the Parliament, her Country men did ſo, and by often run<g ref="char:EOLhyphen"/>ning away got more honour then by fighting: The Iriſh ſouldier and the Welch ſouldier agree in this, they love eating better then fighting.</p>
+            <p>From Oxford her do hear and be informed, that there are great di<g ref="char:EOLhyphen"/>viſions there between the French faction, the Spaniſh and the more moderate party at Oxford, her do hope theſe diviſions will bring them at laſt to confuſions, factious perſons are only kept together by diſſembling, but being offended, like Hoop-ſticks in a ſaggot, they ſoon fall out.</p>
+            <p>Her be informed alſo from Oxford that awl the Cavaliers are turn'd Roundheads, and that indeed there are no other Roundheads but them; For firſt, they ride round about the Country, and plunder their round money, nay her round pottage diſh and round waſhing Bowl, and now in a circular courſe of wickedneſſe, they have brought the year round, and begin again to fall roundly about their buſineſſe, they are Popes Roundheads, for they thought to bring in Popery ve<g ref="char:EOLhyphen"/>ry roundly; and by their drinking, ſwearing and drabbing, they run roundly to hell, where the Divell ſhall make them dance round a<g ref="char:EOLhyphen"/>bout his Coale fire, and theſe are the true Royall Roundheads.</p>
+            <p>The Beſhit of Canterbury his triall is deferred till Munday next, it is the Parliaments mercy to give him time of repentance, he thought to be Englands Pope, but his pride is falne: He came lately to the Parliament Houſe, with a dejected countenance, and his favour that could raiſe dimneſſe to dignities, and put in pillory the true profeſ<g ref="char:EOLhyphen"/>ſors, was turnd pale, as if he looked for death, which he deſerved.</p>
+            <p>The Governour of Oxford Collonell <hi>Aſton</hi> is dangerouſly woun<g ref="char:EOLhyphen"/>ded, the Kings forces are indeed or may be all wounded, wounded in heart for infidelity to their Country, in conſcience for advancing blinde Popery, in the head for ſetting up tyranny under the title of Prerogative, theſe bullets if they felt them would both hurt and heal them of their malignancy, but the Kings ſoldiers have their eyes in their pockets, they ſee nothing but plunder, an pillage, and popery, which doth lead them on to fight againſt the Parliament.</p>
+            <p>Her do underſtand that the Scots have entred this Kingdome, but they are wiſe and come on <hi>lento pede,</hi> marching in winter is dif<g ref="char:EOLhyphen"/>ficult. At Oxford to revenge their comming, they impriſoned the
+<pb facs="tcp:155630:4"/>Marqueſſe <hi>Hamilton,</hi> and the Lord <hi>Louthian,</hi> and the Marqueſſe in thought to be ſtrangled, poyſoned, or removed to Briſtoll. Lords be mercifull unto your ſelves and forſake Oxford, and come to the Par<g ref="char:EOLhyphen"/>liament as the Earle of Bedford hath lately done, and as Collonell <hi>Hinderſon</hi> the Scotchman Governour of Newark, grown weary of ſervice, endeavours by Letters to ſome Scotchmen of note in London, to make her peace with the Parliament; ſo do you malignant Lords ſhew her grandeur and greatneſſe, in humble ſubmiſsion to the Par<g ref="char:EOLhyphen"/>liament.</p>
+            <p>Her be informed of the diſcovery of a new conſpiracy plotted by Sir <hi>Baſill Br<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oke,</hi> a papiſt and priſoner in the Kings Bench, <hi>Read</hi> a Jeſuite, Maſter <hi>Riley</hi> Scout-Maſter Generall of the City, and one <hi>Violet</hi> a malignant Goldſmith, who under pretence of peace conf<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>terated to raiſe ſactions in the City, to impede the Parliament, and the Scots comming into the Kingdome: Theſe men are of Oxford Tribe, and though tey be no Jewes, yet her be Shutaſſes, that would betray this City not for money, but for malice, but let them take heed that after triall they come not to Judas his end; was have no cood memory, elſe they might remember <hi>Challoner,</hi> and the other, whoſe plots condemned them to the Gallowes.</p>
+            <p>
+               <hi>Arundell</hi> Caſtle was taken by Sir <hi>William Waller,</hi> and was take there Sir <hi>Edward Ford</hi> High-Sheriffe of Suſſex, Sir <hi>Edward Biſhop,</hi> Collonell <hi>Banfield,</hi> Lieutenant Collonell <hi>Rolles,</hi> Major <hi>Maſsey,</hi> Ma<g ref="char:EOLhyphen"/>jor <hi>Moulins</hi> and other Gentlemen, but Sir <hi>Edward Dering</hi> was not there. Was took alſo fifty Reformadoes, 1200. priſoners, and their Armes, divers Enſignes, four thouſand pounds in money, and great ſtore of rich prize and pillage. Upon the taking of this Caſtle, <hi>Hop<g ref="char:EOLhyphen"/>ton</hi> hath betook himſelfe to Chicheſter or Wincheſter; and upon the report thereof Prince <hi>Ropert</hi> has took an ague, and te Cavaliers are ſick of Sir <hi>VVilliam VValler,</hi> and the Cavaliers at Oxford curſe him with Bell, Book and Candle; for Caſtles are now like Barbers Chaſtes: The Kings Souldiers are no ſooner out, but the Parlia<g ref="char:EOLhyphen"/>ment ſouldiers are got in, was fery true capariſon.</p>
+            <p>After Grafton houſe was took, her was hear that Collonell <hi>VVait</hi> was make divers encounters with the Garriſon of <hi>Belvoir</hi> (whoſe name doth ſignifie in French <hi>a fair proſpect,</hi> but now her ſaw nothing but ſouldiers) who of late peaten them, and killed rivers Gentlemen of quality, and was hurt Collonell <hi>Lucas</hi> their Governour, and was
+<pb facs="tcp:155630:4"/>by taking 40. horſe at one time, and twenty at another very weake, ſo that her Garriſon of <hi>Belvoir</hi> may be eaſily ſtormed. The Kings party doth ſtill decline, and was go Weſtward, they are driven from Town to Caſtle, and know not whether to run, but run abroad they do, and ſhark in comers and pillage. The Divell and the Cavaliers knowing their time is ſhort, doe continually go about ſeeking whom they may devoure.</p>
+            <p>Was hear of his Majeſties proclamation, calling the Members of the Parliament to Oxford, in which his Majeſty makes great promiſe of oblivions or forgetfulneſſes, which he need not do, for her know that the King hath too much forgot the Parliament, which he would now without fault forgive, and therefore doth promiſe her pardons, and creat ſatisfactions, in ſettling matters of Religion and Liberties, and to perſwade her to this, it is intimated that a factious malignant party hath called in the Scots, who are comming to conquer the Engliſh: For the Welch Mercuries part, he had rather that England ſhould be conquered by the S<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gts who are Proteſtants, and men of conſcience, then be conquered by Papiſts, Spaniards, French, Iriſh Rebels, <hi>Digby, Cottington,</hi> the Prieſts, Jeſuites, Biſhops, Deans, and the Devill and all.</p>
+            <p>From Northampton was lately goe out a troop of horſe, and was take priſoner Generall <hi>Rivers;</hi> and killed his Serjeant Major who was not have quarter, and was take more ſeven or eight Gentle<g ref="char:EOLhyphen"/>men, yet AULICUS ſayes we take no priſoners of worth, for he thinks none are worth taking priſoners but Kings and Princes, and therefore the Popiſh malignants keep the King priſoner at Ox<g ref="char:EOLhyphen"/>ford.</p>
+            <p>Her doe heare Miſtreſſe <hi>Powell</hi> who was condemned to be hang'd for harbouring of Father <hi>B<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ltaker</hi> the Auguſtine Fryer formerly executed at Tiburne, is now honoured by great Commanders at Oxford, indeed moſt of the Cavalliers are theeves and robbers, and therefore they may juſtly favour whores and theeves that come out of New-gate.</p>
+            <p>Oxford is now ſtrangely metamorphoſed, brazen faced Cavalliers doe lye in Brazen noſe Colledge, blood thirſty ſouldiers in Al-ſouls, Commanders in <hi>Corpus-Chriſti</hi> Colledge, the King and the Queene are ſtudents of Chriſt-Church, and the Biſhops and Jeſuits are their Tutors; while there is more maſſing then dining and ſupping, eſpe<g ref="char:EOLhyphen"/>cialy
+<pb facs="tcp:155630:5"/>among the common ſouldiers. But the truth is, they have not bin very merry this Chriſtmas, for their loſſes have come very faſt upon them, and in the Game of war the King hath loſt more this Chriſt<g ref="char:EOLhyphen"/>mas, then in halfe a yeare before; and how can he ſhun it, when he will not caſt out of his pack, the knaves of Diamonds, or ill coun<g ref="char:EOLhyphen"/>ſelling Courtiers, the knaves of Hearts, or the cunning Clergy-men, with the knaves of Spades and Clubs, which are the country and city malignants, let his Majeſty therefore break up this game of warre and come to his Parliament, for he can win nothing but day<g ref="char:EOLhyphen"/>ly he looſes the lives and hearts of his Subjects.</p>
+            <p>Was heare alſo that the Newcaſtle powers that were in Derby<g ref="char:EOLhyphen"/>ſhire, are drawing to the North to ſtop the progreſſe of the Scots, to whom her was beleive that the Iriſh will joyne, and other forces about Cheſhire, her know that Malignants and the I<g ref="char:EOLhyphen"/>riſh will hang together in their deſignes, although her bee taken and hanged together on Giblets.</p>
+            <p>Her heare the States of Holland are landed, they came on VVed<g ref="char:EOLhyphen"/>neſday laſt to Deal: they came as Ambaſſadours to treat with her Parliament, their Meſſage her ſhall know hereafter, for her cannot know their minds till they have delivered it; but her is confident they come for good.</p>
+            <p>Her will now deſire her Countrymen and all Welch Brittaines, to look upon her Welch Diurnall, which doth repreſent taking of Townes, priſoners, pillage, bloody onſets, and killing of men: and thus her Diurnall is a bloody picture of the weekly proceedings of this warre, which her wiſh may end in Peace, for her be weary of writing bloody truths, and therefore her will now conclude with a merry jeſt. One thing her had almoſt omitted in her Diurnall; and that is, Prince <hi>Ruperts</hi> white dogge piſſed one night in his Maſters ſhoe, whereupon he was by a counſell of warre condemned, but af<g ref="char:EOLhyphen"/>terwards reprieved againe, you ſhall find it reported in the next AVLICVS, for he is an old dogge at ſuch lyes.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
